@@ -1,4 +1,5 @@
-import { FaPlay, FaBackward, FaForward, FaStop } from "react-icons/fa";
+import { FaPlay, FaBackward, FaForward } from "react-icons/fa";
+// FaStop
 const Player = () => {
   return (
     <div className="absolute bottom-10 left-10 backdrop-blur-xs bg-white/10 p-5">
